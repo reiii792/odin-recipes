@@ -20,8 +20,9 @@ chicken, pork, beef, fish, vegetable, and dessert.
 
 ## Status
 
-🚧 Work in Progress  
-- Category recipe pages are not yet complete  
+✅ Completed  
+The recipe site is fully functional with all categories and recipe
+detail pages implemented.
 
 ---
 
